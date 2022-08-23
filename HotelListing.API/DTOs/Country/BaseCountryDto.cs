@@ -1,5 +1,4 @@
-﻿using Microsoft.Build.Framework;
-
+﻿
 namespace HotelListing.API.Data
 {
     public abstract class BaseCountryDto
